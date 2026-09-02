@@ -1,0 +1,28 @@
+{
+  "node": {
+    "408d08d859e27ad582a177eaf58a0d5f394e8fed6b": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fuser%2Fstudio%2Fsrc%2Fai%2Fflows%2Fchat.ts%22%2C%5B%5B%22408d08d859e27ad582a177eaf58a0d5f394e8fed6b%22%2C%22chat%22%5D%5D%5D%2C%5B%22%2Fhome%2Fuser%2Fstudio%2Fsrc%2Fai%2Fflows%2Fget-daily-briefing.ts%22%2C%5B%5B%2240aa66839d74e965c607af9842b3ff1a248a23ff60%22%2C%22getDailyBriefing%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    },
+    "40aa66839d74e965c607af9842b3ff1a248a23ff60": {
+      "workers": {
+        "app/dashboard/page": {
+          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2Fhome%2Fuser%2Fstudio%2Fsrc%2Fai%2Fflows%2Fchat.ts%22%2C%5B%5B%22408d08d859e27ad582a177eaf58a0d5f394e8fed6b%22%2C%22chat%22%5D%5D%5D%2C%5B%22%2Fhome%2Fuser%2Fstudio%2Fsrc%2Fai%2Fflows%2Fget-daily-briefing.ts%22%2C%5B%5B%2240aa66839d74e965c607af9842b3ff1a248a23ff60%22%2C%22getDailyBriefing%22%5D%5D%5D%5D&__client_imported__=true!",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/dashboard/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "iCDtgzrvpaAJuPqYKalRU+Z2VDkQ6V0k2hy62j9rJp8="
+}
